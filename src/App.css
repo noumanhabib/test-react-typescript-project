@@ -1,0 +1,16 @@
+.chess-board {
+    display: flex;
+}
+
+.chess-board div {
+    width: 10vmin;
+    height: 10vmin;
+}
+
+.chess-board div.black {
+    background-color: #7d945d;
+}
+
+.chess-board div.white {
+    background-color: #eeeed5;
+}
