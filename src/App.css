@@ -8,9 +8,9 @@
 }
 
 .chess-board div.black {
-    background-color: #7d945d;
+    background-color: red;
 }
 
 .chess-board div.white {
-    background-color: #eeeed5;
+    background-color: black;
 }
